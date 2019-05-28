@@ -1,0 +1,1 @@
+To change between different video sequences simply comment out the main function call at the bottom of the project_4_final.py file and uncomment one of the other main function calls. The first call is for the car sequence, the second call is for the human walking sequence, and the third call is for the vase sequence.
